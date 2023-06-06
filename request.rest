@@ -1,0 +1,14 @@
+###Teste de API
+GET http://localhost:3003/
+
+###Todos meu cursos
+GET http://localhost:3003/courses
+
+###Buscar o curso pelo nome
+GET http://localhost:3003/courses/search?name=react
+
+###Todos estudantes
+GET http://localhost:3003/students
+
+###Buscar o estudante pelo nome
+GET http://localhost:3003/students/search?name=Arthur
